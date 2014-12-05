@@ -1,0 +1,136 @@
+2014-12-03T00:00:31  *** snegovik1 has joined #lab
+2014-12-03T02:29:40  *** sitkarev-mobile2 has joined #lab
+2014-12-03T02:39:06  *** sitkarev-mobile has quit IRC
+2014-12-03T02:54:56  *** sitkarev-mobile2 has quit IRC
+2014-12-03T03:07:10  *** sitkarev-mobile has joined #lab
+2014-12-03T03:53:23  *** wolong has joined #lab
+2014-12-03T03:53:38  <wolong> .hid
+2014-12-03T03:53:49  <wolong> .history
+2014-12-03T04:23:43  *** sitkarev-mobile2 has joined #lab
+2014-12-03T04:31:47  <Igorek> .history
+2014-12-03T04:32:09  <Igorek> )
+2014-12-03T04:33:26  *** sitkarev-mobile has quit IRC
+2014-12-03T04:43:56  *** sitkarev-mobile2 has quit IRC
+2014-12-03T04:45:10  *** sitkarev-mobile has joined #lab
+2014-12-03T04:59:14  *** sitkarev-mobile2 has joined #lab
+2014-12-03T05:05:21  *** sitkarev-mobile has quit IRC
+2014-12-03T05:08:01  *** seik0 has joined #lab
+2014-12-03T05:16:45  *** michail has joined #lab
+2014-12-03T05:19:26  *** sitkarev-mobile2 has quit IRC
+2014-12-03T05:21:10  *** sitkarev-mobile has joined #lab
+2014-12-03T05:34:01  *** sitkarev-mobile2 has joined #lab
+2014-12-03T05:41:21  *** sitkarev-mobile has quit IRC
+2014-12-03T05:54:17  *** sitkarev-mobile2 has quit IRC
+2014-12-03T05:55:10  *** sitkarev-mobile has joined #lab
+2014-12-03T06:05:07  *** wolong has quit IRC
+2014-12-03T06:20:12  *** sitkarev-mobile2 has joined #lab
+2014-12-03T06:21:07  *** wolong has joined #lab
+2014-12-03T06:24:07  *** wolong2 has joined #lab
+2014-12-03T06:25:31  *** sitkarev-mobile has quit IRC
+2014-12-03T06:31:22  *** wolong has quit IRC
+2014-12-03T06:32:42  *** wolong has joined #lab
+2014-12-03T06:34:11  *** wolong2 has quit IRC
+2014-12-03T06:40:03  *** sitkarev-mobile2 has quit IRC
+2014-12-03T06:40:20  *** sitkarev-mobile has joined #lab
+2014-12-03T06:42:47  *** wolong has quit IRC
+2014-12-03T06:47:39  *** Wall-E has joined #lab
+2014-12-03T06:48:31  *** Wall-E has joined #lab
+2014-12-03T07:00:02  *** Wall-E has joined #lab
+2014-12-03T07:00:05  <dzruyk> .joke
+2014-12-03T07:00:24  <snegovik> .joke
+2014-12-03T07:00:32  *** sitkarev-mobile has quit IRC
+2014-12-03T07:00:35  <snegovik> .joke
+2014-12-03T07:00:35  <dzruyk> Шутки ради приделал петросянку к боту.
+2014-12-03T07:00:58  <snegovik> .joke
+2014-12-03T07:01:06  <dzruyk> чтобы оно не спамило, бояны она отсылает в ПМ) оттуда же можно его просить о новых шутках)
+2014-12-03T07:01:17  <snegovik> ))
+2014-12-03T07:04:00  <michail> от куда шутки приходят?
+2014-12-03T07:04:10  <dzruyk> http://shortiki.com/
+2014-12-03T07:04:44  <michail> угарно )
+2014-12-03T07:04:50  <michail> историю то ведет он теперь??
+2014-12-03T07:05:06  <dzruyk> он давно ведёт, я не знаю как её лучше пользователям отдавать
+2014-12-03T07:05:23  <dzruyk>  irc не умеет сообщение в несколько строк отсылать
+2014-12-03T07:05:38  <michail> пачками по 3 строчки
+2014-12-03T07:05:41  <michail> может так?
+2014-12-03T07:05:44  <michail> подшаманить его
+2014-12-03T07:05:44  <dzruyk> поэтому нужно каждое сообщение из истории отдельно отправлять
+2014-12-03T07:05:53  <dzruyk> а это сраный спам)
+2014-12-03T07:06:29  <dzruyk> так можно и бан схватить
+2014-12-03T07:07:29  <Igorek> .joke
+2014-12-03T07:07:50  <michail> в личку
+2014-12-03T07:08:06  <dzruyk> Если оно вместо шутки начнёт сообщения об ошибках присылать, скажите пожалста. я там наговнокодил
+2014-12-03T07:08:14  <dzruyk> не факт что ничего не отваливается
+2014-12-03T07:08:15  <dzruyk> :)
+2014-12-03T07:47:08  *** sitkarev-mobile has joined #lab
+2014-12-03T07:55:16  *** sitkarev-mobile2 has quit IRC
+2014-12-03T08:07:22  *** sitkarev-mobile has quit IRC
+2014-12-03T08:08:18  *** sitkarev-mobile has joined #lab
+2014-12-03T08:16:49  *** wolong has quit IRC
+2014-12-03T08:17:21  *** wolong has joined #lab
+2014-12-03T08:30:22  *** sitkarev-mobile2 has joined #lab
+2014-12-03T08:38:41  *** sitkarev-mobile has quit IRC
+2014-12-03T08:50:37  *** sitkarev-mobile2 has quit IRC
+2014-12-03T08:51:48  *** sitkarev-mobile has joined #lab
+2014-12-03T09:30:20  *** sitkarev-mobile2 has joined #lab
+2014-12-03T09:36:06  *** sitkarev-mobile has quit IRC
+2014-12-03T09:40:22  *** sitkarev-mobile2 has quit IRC
+2014-12-03T09:40:57  *** sitkarev-mobile has joined #lab
+2014-12-03T09:59:17  *** sitkarev-mobile2 has joined #lab
+2014-12-03T10:06:17  *** sitkarev-mobile has quit IRC
+2014-12-03T10:24:37  *** sitkarev-mobile2 has quit IRC
+2014-12-03T10:31:24  *** serezha has joined #lab
+2014-12-03T10:36:39  <serezha> snegovik?
+2014-12-03T10:36:41  <serezha> tut?
+2014-12-03T10:36:52  <snegovik> м
+2014-12-03T10:37:08  <serezha> сейчас отправлю, посмотришь? есть время?
+2014-12-03T10:37:16  <snegovik> давай
+2014-12-03T10:37:27  <serezha> всё
+2014-12-03T10:37:33  <snegovik> куда отправил?)
+2014-12-03T10:37:38  <serezha> vk
+2014-12-03T11:28:45  <Igorek> .joke
+2014-12-03T11:28:58  <Igorek> .joke
+2014-12-03T11:29:22  <Igorek> .joke
+2014-12-03T11:29:29  <Igorek> .joke
+2014-12-03T11:29:30  <Igorek> .joke
+2014-12-03T11:29:31  <Igorek> .joke
+2014-12-03T11:29:32  <Igorek> .joke
+2014-12-03T11:29:34  <Igorek> .joke
+2014-12-03T11:29:35  <Igorek> .joke
+2014-12-03T11:30:56  <michail> в личку
+2014-12-03T11:31:01  <michail> боту
+2014-12-03T11:31:29  <Igorek> (14:31:32) Wall-E: UnicodeEncodeError: 'charmap' codec can't encode character u'\xab' in position 72: character maps to <undefined> (file "/usr/lib/python2.7/encodings/koi8_r.py", line 12, in encode)
+2014-12-03T11:31:54  <michail> а мне продолжает отвечать
+2014-12-03T11:31:55  <Igorek> (14:31:31) Igorek: .joke
+2014-12-03T11:31:55  <Igorek> (14:31:32) Wall-E: UnicodeEncodeError: 'charmap' codec can't encode character u'\xab' in position 72: character maps to <undefined> (file "/usr/lib/python2.7/encodings/koi8_r.py", line 12, in encode)
+2014-12-03T11:32:10  <michail> (14:32:38) michail: .joke
+2014-12-03T11:32:10  <michail> (14:32:38) Wall-E:  Лишь немногие из тех, кого мучает кашель, идут к врачу. Остальные идут в кинотеатр. 
+2014-12-03T11:32:10  <michail> (14:32:52) michail: .joke
+2014-12-03T11:32:10  <michail> (14:32:52) Wall-E:  Я немного растерялся, когда на первом свидании ты попросила меня купить тебе мороженое мясо. 
+2014-12-03T11:32:33  <Igorek> )))
+2014-12-03T14:27:46  *** michail has left #lab
+2014-12-03T15:12:58  *** serezha has quit IRC
+2014-12-03T15:53:17  *** wolong has quit IRC
+2014-12-03T15:53:44  *** igorek_ has joined #lab
+2014-12-03T15:59:40  *** igorek_ has quit IRC
+2014-12-03T17:03:08  *** wolong has joined #lab
+2014-12-03T18:23:46  *** serezha has joined #lab
+2014-12-03T18:27:10  *** Egor has joined #lab
+2014-12-03T18:29:23  *** qwerty has joined #lab
+2014-12-03T18:40:39  *** Wall-E has joined #lab
+2014-12-03T18:41:30  <dzruyk> Любителям анекдотов на заметку - если ошибки будут повторяться - подскажите пожалуйста)
+2014-12-03T18:41:52  <dzruyk> я вроде закостылял:)
+2014-12-03T18:42:20  <dzruyk> дело было в том что не всё в koi8-r может без потерь сконвертится 
+2014-12-03T18:42:43  <dzruyk> сконвертиться*
+2014-12-03T19:16:03  <wolong> фак ю дзрюк. 
+2014-12-03T19:16:16  <wolong> меня Wall-E научил. 
+2014-12-03T20:19:58  <seik0> забавный факт сказали в ютубе
+2014-12-03T20:20:08  <seik0> типа, влажный воздух менее плотный, чем сухой
+2014-12-03T20:20:17  <seik0> допустим, дело происходит при одной температуре
+2014-12-03T20:20:33  <seik0> а по закону авогадро количество молекул при одной температуре для любого газа постоянно
+2014-12-03T20:20:43  <seik0> теперь, воздух в среднем состоит из азота и кислорода
+2014-12-03T20:20:58  <seik0> если же насыщать воздух влагой, молекулами воды, ашдвао
+2014-12-03T20:21:13  <seik0> то молекулы ашдвао легче и чем молекулы кислорода и чем молекулы азота
+2014-12-03T20:21:27  <seik0> в результате, влажный воздух менее плотный и движение через него быстрее
+2014-12-03T20:21:48  <seik0> в качестве примера привели бейсбольную игру, где во влажном воздухе скорость мяча в среднем на 5% быстрее
+2014-12-03T21:15:55  *** b3bVWntoVGXVbFeC has joined #lab
+2014-12-03T21:18:24  *** b3bVWntoVGXVbFeC has joined #lab

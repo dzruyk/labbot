@@ -1,0 +1,95 @@
+2014-12-04T00:00:20  *** snegovik1 has joined #lab
+2014-12-04T05:09:09  *** michail has joined #lab
+2014-12-04T07:33:36  *** sitkarev-mobile2 has joined #lab
+2014-12-04T07:52:30  *** Igorek has joined #lab
+2014-12-04T07:53:55  <Igorek> всем добра
+2014-12-04T08:23:59  *** sitkarev-mobile has joined #lab
+2014-12-04T08:42:15  *** serezha has joined #lab
+2014-12-04T08:47:25  *** sitkarev-mobile2 has joined #lab
+2014-12-04T08:51:40  *** wolong has joined #lab
+2014-12-04T09:11:58  *** wolong has joined #lab
+2014-12-04T09:44:17  <michail> добрый )
+2014-12-04T09:49:19  *** sitkarev-mobile has joined #lab
+2014-12-04T09:59:36  <wolong> взаимно!
+2014-12-04T10:09:44  *** sitkarev-mobile has joined #lab
+2014-12-04T11:01:59  *** sitkarev-mobile2 has joined #lab
+2014-12-04T11:22:01  *** sitkarev-mobile has joined #lab
+2014-12-04T11:37:27  *** wolong has joined #lab
+2014-12-04T11:40:51  *** sitkarev-mobile2 has joined #lab
+2014-12-04T11:52:00  *** sitkarev-mobile has joined #lab
+2014-12-04T12:27:26  *** sitkarev-mobile has joined #lab
+2014-12-04T12:49:13  *** sitkarev-mobile has joined #lab
+2014-12-04T12:55:58  *** sitkarev-mobile2 has joined #lab
+2014-12-04T13:11:25  *** sitkarev-mobile has joined #lab
+2014-12-04T13:58:37  *** sitkarev-mobile has joined #lab
+2014-12-04T14:10:09  *** michail has left #lab
+2014-12-04T14:57:07  *** viktor has joined #lab
+2014-12-04T14:57:14  <viktor> всем привет!
+2014-12-04T14:57:25  <viktor> https://meduza.io/news/2014/12/03/provaydery-nachali-blokirovat-platformu-dlya-programmistov-github
+2014-12-04T14:57:31  <viktor> может я не вовремя уже
+2014-12-04T14:57:36  <viktor> но вот на что напоролся
+2014-12-04T14:58:45  <viktor> http://tjournal.ru/paper/rkn-github-confessions
+2014-12-04T15:32:47  *** viktor has left #lab
+2014-12-04T16:55:12  *** sitkarev-mobile has joined #lab
+2014-12-04T17:06:33  *** michail has joined #lab
+2014-12-04T17:15:18  *** sitkarev-mobile2 has joined #lab
+2014-12-04T17:39:41  *** igorek_ has joined #lab
+2014-12-04T17:40:10  <igorek_> как там хистори у бота взять то?
+2014-12-04T17:40:21  <seik0> .history
+2014-12-04T17:40:23  <serezha> .history
+2014-12-04T17:40:33  <seik0> только это не реализовано ещё )
+2014-12-04T17:40:34  <serezha> только он её не даёт
+2014-12-04T17:40:36  <igorek_> .history
+2014-12-04T17:40:39  <igorek_> ))
+2014-12-04T17:40:54  <igorek_> ну ладно )
+2014-12-04T17:40:57  <igorek_> спасбио!
+2014-12-04T17:41:07  <igorek_> спас био ))
+2014-12-04T17:45:03  <seik0> спас био - спас планету
+2014-12-04T17:45:13  <serezha> :-D
+2014-12-04T18:21:44  *** Wall-E has joined #lab
+2014-12-04T18:22:08  *** seik0 has quit IRC
+2014-12-04T18:41:33  *** sitkarev-mobile2 has quit IRC
+2014-12-04T18:41:35  *** seik0 has joined #lab
+2014-12-04T18:46:28  *** sitkarev-mobile2 has joined #lab
+2014-12-04T18:59:41  *** bulaleks has joined #lab
+2014-12-04T19:18:36  <serezha> Григорий Саныч?
+2014-12-04T19:18:51  <serezha> случайно не в чатике?
+2014-12-04T19:22:35  *** vik-and has joined #lab
+2014-12-04T19:23:06  <vik-and> Всем еще раз привет! Андрей? Давно ли тут?
+2014-12-04T19:24:45  <serezha> Привет)
+2014-12-04T19:37:54  *** vik-and has quit IRC
+2014-12-04T19:38:16  *** vik-and has joined #lab
+2014-12-04T19:39:39  *** michail has left #lab
+2014-12-04T19:42:51  *** vik-and has quit IRC
+2014-12-04T19:47:27  *** wolong2 has joined #lab
+2014-12-04T19:47:35  <wolong2>  толко домой пришёл. 
+2014-12-04T19:53:18  *** seik0 has quit IRC
+2014-12-04T19:54:14  *** wolong has quit IRC
+2014-12-04T20:11:21  *** sitkarev-mobile has joined #lab
+2014-12-04T20:12:21  <serezha> Григорий Саныч)
+2014-12-04T20:12:25  <serezha> тут?
+2014-12-04T20:18:03  *** sitkarev-mobile2 has quit IRC
+2014-12-04T20:23:35  *** bulaleks has quit IRC
+2014-12-04T20:29:43  *** igorek_ has quit IRC
+2014-12-04T20:29:44  <wolong2> а кто меня искал?
+2014-12-04T20:31:33  *** sitkarev-mobile has quit IRC
+2014-12-04T20:32:41  <serezha> Виктор
+2014-12-04T20:33:08  *** sitkarev-mobile has joined #lab
+2014-12-04T20:33:36  <serezha> ГА
+2014-12-04T20:33:56  <serezha> Наверно  сам телефон подключается.
+2014-12-04T21:17:27  *** serezha has quit IRC
+2014-12-04T21:18:49  *** serezha has joined #lab
+2014-12-04T21:42:35  *** sitkarev-mobile2 has joined #lab
+2014-12-04T21:49:23  *** sitkarev-mobile has quit IRC
+2014-12-04T22:02:48  *** sitkarev-mobile2 has quit IRC
+2014-12-04T22:07:12  *** sitkarev-mobile has joined #lab
+2014-12-04T22:49:44  *** sitkarev-mobile2 has joined #lab
+2014-12-04T22:50:19  <serezha> Григорий
+2014-12-04T22:50:20  <serezha> Саныч
+2014-12-04T22:50:24  <serezha> :C
+2014-12-04T22:58:08  *** sitkarev-mobile has quit IRC
+2014-12-04T23:20:56  *** serezha has quit IRC
+2014-12-04T23:29:30  *** sitkarev-mobile has joined #lab
+2014-12-04T23:35:18  *** sitkarev-mobile2 has quit IRC
+2014-12-04T23:50:54  *** snegovik1 has quit IRC
+2014-12-04T23:59:24  *** snegovik1 has joined #lab
