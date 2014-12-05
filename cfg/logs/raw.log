@@ -1,0 +1,36 @@
+>>1417377161.23	CAP LS
+>>1417377161.23	NICK Willie
+>>1417377161.23	USER willie +iw Willie :Willie Embosbot, http://willie.dftba.net
+<<1417377161.28	:amplab.syktsu.ru NOTICE AUTH :*** Looking up your hostname...
+<<1417377161.32	:amplab.syktsu.ru NOTICE AUTH :*** Checking Ident
+<<1417377161.43	:amplab.syktsu.ru NOTICE AUTH :*** Found your hostname
+<<1417377172.23	:amplab.syktsu.ru NOTICE AUTH :*** No Ident response
+<<1417377172.23	:amplab.syktsu.ru CAP * LS :multi-prefix
+>>1417377172.23	CAP REQ multi-prefix
+>>1417377172.23	CAP END
+<<1417377172.28	:amplab.syktsu.ru CAP Willie ACK :multi-prefix
+<<1417377172.32	:amplab.syktsu.ru NOTICE Willie :*** Spoofing your IP. congrats.
+<<1417377172.32	:amplab.syktsu.ru NOTICE Willie :*** You are exempt from K/D/G lines. congrats.
+<<1417377172.32	:amplab.syktsu.ru NOTICE Willie :*** You are exempt from user limits. congrats.
+<<1417377172.33	:amplab.syktsu.ru 001 Willie :Welcome to the Lab Internet Relay Chat Network Willie
+>>1417377172.33	MODE  Willie +B
+>>1417377172.33	JOIN hab
+<<1417377172.38	:amplab.syktsu.ru 002 Willie :Your host is amplab.syktsu.ru[0.0.0.0/6667], running version hybrid-ru-7.2.3
+<<1417377172.38	:amplab.syktsu.ru 003 Willie :This server was created May 13 2013 at 17:13:41
+<<1417377172.38	:amplab.syktsu.ru 004 Willie amplab.syktsu.ru hybrid-ru-7.2.3 CDGRSXabcdfgiklnorsuvwxyz bciklmnopstveIhOCSRN bkloveIh
+<<1417377172.38	:amplab.syktsu.ru 005 Willie CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=16 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=270 NETWORK=Lab MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& :are supported by this server
+<<1417377172.38	:amplab.syktsu.ru 005 Willie CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpstcCOSRN ELIST=CMNTU SAFELIST KNOCK AWAYLEN=160 :are supported by this server
+<<1417377172.38	:amp
+<<1417377172.38	lab.syktsu.ru 251 Willie :There are 0 users and 12 invisible on 1 servers
+<<1417377172.38	:amplab.syktsu.ru 254 Willie 1 :channels formed
+<<1417377172.38	:amplab.syktsu.ru 255 Willie :I have 12 clients and 0 servers
+<<1417377172.38	:amplab.syktsu.ru 265 Willie :Current local users: 12  Max: 15
+<<1417377172.38	:amplab.syktsu.ru 266 Willie :Current global users: 12  Max: 15
+<<1417377172.38	:amplab.syktsu.ru 250 Willie :Highest connection count: 15 (15 clients) (200 connections received)
+<<1417377172.38	:amplab.syktsu.ru 375 Willie :- amplab.syktsu.ru Message of the Day - 
+<<1417377172.38	:amplab.syktsu.ru 372 Willie :- Programming and Applied Math Laboratory, Syktyvkar.
+<<1417377172.38	:amplab.syktsu.ru 376 Willie :End of /MOTD command.
+<<1417377172.38	:Willie!willie@lab MODE Willie :+Xi
+<<1417377172.38	:amplab.syktsu.ru 501 Willie :Unknown MODE flag
+<<1417377172.42	:amplab.syktsu.ru 479 Willie hab :Illegal channel name
+>>1417377190.6	QUIT :KeyboardInterrupt
