@@ -49,7 +49,7 @@ def get_fpath(bot, channel=None):
     channel = channel or bot.origin.sender
     channel = channel.lstrip("#")
 
-    dt = datetime.utcnow()
+    dt = datetime.now()
     if not bot.config.chanlogs.microseconds:
         dt = dt.replace(microsecond=0)
     if bot.config.chanlogs.by_day:
@@ -60,7 +60,7 @@ def get_fpath(bot, channel=None):
 
 
 def _format_template(tpl, bot, **kwargs):
-    dt = datetime.utcnow()
+    dt = datetime.now()
     if not bot.config.chanlogs.microseconds:
         dt = dt.replace(microsecond=0)
 
@@ -180,5 +180,5 @@ def send_history(bot, trigger):
     """ Sends todays IRC log for that channel"""
     fpath = get_fpath(bot, trigger.sender)
 
-    bot.msg(trigger.nick, "Последние логи: http://unimplemented.now")
+    bot.msg(trigger.nick, "Последние логи: http://chat.amplab.ru/history/")
 
